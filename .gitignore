@@ -4,3 +4,5 @@ krr-prd-information-images.s3.amazonaws.com/
 krr-prd-web.star-api.com/wp-content/
 krr-prd-web.star-api.com/wp-includes/
 /*.txt
+
+node_modules
